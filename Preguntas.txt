@@ -1,0 +1,12 @@
+diferencia entre una integraciòn a nivel de negocio y a nivel tecnico
+se crean indices por defecto en los campos claves?
+tipo tabla?
+
+documentaciòn nutresa:
+objetos de autorizacion
+
+OT: NW-CO-NTSA-MM-SS-nnnn-Desscripcion-VVVCODI con VVV=PRY, INC, REQ.
+	Ejemplo: NW-NTSA-FI-AR-2504 Grabación recaudos #1 ¿cuál es el VVV y el CODI?
+
+
+
